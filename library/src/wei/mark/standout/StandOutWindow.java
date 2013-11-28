@@ -48,6 +48,7 @@ import android.widget.TextView;
 public abstract class StandOutWindow extends Service {
 	static final String TAG = "StandOutWindow";
 
+	
 	/**
 	 * StandOut window id: You may use this sample id for your first window.
 	 */
